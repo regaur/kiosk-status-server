@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=kiosk-status-server
-pkgver=1.0.0
+pkgver=1.1.0
 pkgrel=1
 pkgdesc="Serve command output and proxy http requests"
 arch=('any')
